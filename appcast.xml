@@ -6,6 +6,18 @@
     <description>Updates for the AtemStatus Mac app</description>
     <language>en</language>
     <item>
+      <title>1.2</title>
+      <pubDate>Mon, 07 Sep 2026 10:36:59 +0200</pubDate>
+      <sparkle:version>10</sparkle:version>
+      <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Fixes the update window opening behind other apps.]]></description>
+      <enclosure url="https://github.com/steijehillewaert/AtemStatus-releases/releases/download/v1.2/AtemStatus-1.2.zip"
+                 length="1532277"
+                 type="application/octet-stream"
+                 sparkle:edSignature="IbB8kj0mB9U7lVa8lb+fJjOBiTRgUUGn7G5x4a6ZPGSxyM8s2NqshbCNQCTAysZMJXu8Sp99CW7UsKy77+dMDQ=="/>
+    </item>
+    <item>
       <title>1.1</title>
       <pubDate>Mon, 07 Sep 2026 10:31:32 +0200</pubDate>
       <sparkle:version>9</sparkle:version>
