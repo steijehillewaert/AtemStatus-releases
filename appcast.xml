@@ -6,6 +6,18 @@
     <description>Updates for the AtemStatus Mac app</description>
     <language>en</language>
     <item>
+      <title>1.5</title>
+      <pubDate>Mon, 07 Sep 2026 20:56:36 +0200</pubDate>
+      <sparkle:version>16</sparkle:version>
+      <sparkle:shortVersionString>1.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[The app now reads the switcher's handshake verdict: when an ATEM is refusing controllers because all five of its control connections are taken, it says so plainly instead of flickering between connected and offline, and it backs off to one attempt every five seconds. Also fixes a healthy recording disk being labelled full.]]></description>
+      <enclosure url="https://github.com/steijehillewaert/AtemStatus-releases/releases/download/v1.5/AtemStatus-1.5.zip"
+                 length="1574716"
+                 type="application/octet-stream"
+                 sparkle:edSignature="DWhZt24JzAOfgnBcNcxnN6Haw8PleSLgjlGpm6fFNgeZo+pt0WvInD39/4SSfKxJwp3LbsGc2RKS0RcR3pKHDg=="/>
+    </item>
+    <item>
       <title>1.4</title>
       <pubDate>Mon, 07 Sep 2026 20:33:30 +0200</pubDate>
       <sparkle:version>15</sparkle:version>
