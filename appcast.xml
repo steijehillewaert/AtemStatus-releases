@@ -6,6 +6,18 @@
     <description>Updates for the AtemStatus Mac app</description>
     <language>en</language>
     <item>
+      <title>1.7</title>
+      <pubDate>Wed, 09 Sep 2026 21:04:02 +0200</pubDate>
+      <sparkle:version>18</sparkle:version>
+      <sparkle:shortVersionString>1.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Fixes the app filling up the switcher's five control connections. A socket teardown could feed itself and start a fresh session every second, and the browse scan probed switchers that had already answered.]]></description>
+      <enclosure url="https://github.com/steijehillewaert/AtemStatus-releases/releases/download/v1.7/AtemStatus-1.7.zip"
+                 length="1610281"
+                 type="application/octet-stream"
+                 sparkle:edSignature="aTde5oCNFDDy/q6EQMXiQ+5FvyHs/JaVXSKKBbKGEkGJpdYGiQ5Ir9TiwisEpN6pDUgtvLCmeb3X4WLb+QsyDw=="/>
+    </item>
+    <item>
       <title>1.6</title>
       <pubDate>Wed, 09 Sep 2026 20:53:12 +0200</pubDate>
       <sparkle:version>17</sparkle:version>
