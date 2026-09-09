@@ -6,6 +6,18 @@
     <description>Updates for the AtemStatus Mac app</description>
     <language>en</language>
     <item>
+      <title>1.6</title>
+      <pubDate>Wed, 09 Sep 2026 20:53:12 +0200</pubDate>
+      <sparkle:version>17</sparkle:version>
+      <sparkle:shortVersionString>1.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Find the switcher and OBS on the network instead of typing their addresses. Both address fields in Settings now have a magnifier that lists the ATEMs and OBS instances it finds, with product names and versions — double-click one to fill the field.]]></description>
+      <enclosure url="https://github.com/steijehillewaert/AtemStatus-releases/releases/download/v1.6/AtemStatus-1.6.zip"
+                 length="1609897"
+                 type="application/octet-stream"
+                 sparkle:edSignature="1AZXek3opYILPgqreNCMRev8C6HzYBQ0LFGJRlUQeIkBaFNJp6N8jXSJPt783cTnemDBVYeBXyykot8Q14nvDw=="/>
+    </item>
+    <item>
       <title>1.5</title>
       <pubDate>Mon, 07 Sep 2026 20:56:36 +0200</pubDate>
       <sparkle:version>16</sparkle:version>
